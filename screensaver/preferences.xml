@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <!-- Video Source: ONLY official Apple Videos -->
+    <boolean name="apple_videos_enabled" value="true" />
+    <boolean name="amazon_videos_enabled" value="false" />
+    <string name="apple_videos_count">139</string>
+    <string name="apple_videos_quality">VIDEO_1080_SDR</string>
+    <set name="apple_videos_scene_type">
+        <string>SPACE</string>
+        <string>BEACH</string>
+        <string>NATURE</string>
+        <string>COUNTRYSIDE</string>
+        <string>CITY</string>
+        <string>SEA</string>
+    </set>
+    <set name="apple_videos_time_of_day">
+        <string>SUNSET</string>
+        <string>NIGHT</string>
+        <string>SUNRISE</string>
+        <string>DAY</string>
+    </set>
+    <boolean name="check_for_hevc_support" value="true" />
+    <boolean name="alt_text_position" value="true" />
+    <boolean name="gradient_bottom_show" value="true" />
+    <boolean name="gradient_top_show" value="false" />
+
+    <!-- Typography: Google Sans (Clean Apple San Francisco style) -->
+    <string name="font_typeface">GOOGLE_SANS</string>
+
+    <!-- Clock: Prominent 60sp, 300 Light weight -->
+    <string name="clock_size">60</string>
+    <string name="clock_weight">300</string>
+    <string name="clock_format">DEFAULT</string>
+    <boolean name="clock_force_latin_digits" value="false" />
+
+    <!-- Date: Full format, 24sp, 400 Regular weight -->
+    <string name="date_format">FULL</string>
+    <string name="date_size">24</string>
+    <string name="date_weight">400</string>
+
+    <!-- Aerial Location Metadata 1: 24sp, 300 Light weight -->
+    <string name="overlay_metadata1_size">24</string>
+    <string name="overlay_metadata1_weight">300</string>
+    <boolean name="overlay_metadata1_videos" value="true" />
+
+    <!-- Slot Layout:
+         Bottom Left: Upper = DATE, Lower = CLOCK
+         Bottom Right: Lower = METADATA1 (Aerial Location Tag)
+    -->
+    <string name="slot_bottom_left2">DATE</string>
+    <string name="slot_bottom_left1">CLOCK</string>
+    <string name="slot_bottom_right1">METADATA1</string>
+
+    <!-- Remote & Wake controls -->
+    <string name="button_ok_press">EXIT</string>
+    <string name="button_right_press">SKIP_NEXT</string>
+    <string name="button_left_press">SKIP_PREVIOUS</string>
+    <string name="button_up_press">IGNORE</string>
+    <string name="button_down_press">IGNORE</string>
+    <boolean name="wake_on_any_button_press" value="true" />
+    <boolean name="exit_on_mouse_movement" value="false" />
+    <boolean name="enable_media_button_passthrough" value="true" />
+</map>
