@@ -11,19 +11,40 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Before vs After
 
 <p align="center">
-  <img src="docs/screenshots/home_liquid_glass.png" width="85%" alt="tvOS Detox Liquid Glass Home Screen" />
-  <br />
-  <em>The Liquid Glass Home Screen with profile badge, frosted pill dock, and Apple San Francisco typography.</em>
+  <img src="docs/screenshots/before_after_comparison.png" width="100%" alt="tvOS Detox: Stock Android TV Before vs Apple tvOS Detox After" />
 </p>
 
+<table>
+  <tr>
+    <th width="50%" align="center">❌ BEFORE: Stock Android TV</th>
+    <th width="50%" align="center">🍏 AFTER: Apple tvOS Detox</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/before_stock.png" width="100%" alt="Stock Android TV Cluttered UI" />
+      <br />
+      <em>Bloated with sponsored rows, adware popups, and a 200MB+ memory footprint.</em>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/home_liquid_glass.png" width="100%" alt="tvOS Detox Liquid Glass Home Screen" />
+      <br />
+      <em>Clean Apple Liquid Glass frosted pill dock, personalized profile pill, and zero ads.</em>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🔍 View Full App Grid (Click to expand)</b></summary>
+<br />
 <p align="center">
-  <img src="docs/screenshots/home_grid.png" width="85%" alt="tvOS Detox Responsive App Grid" />
+  <img src="docs/screenshots/home_grid.png" width="90%" alt="tvOS Detox Responsive App Grid" />
   <br />
   <em>Symmetric widescreen 16:9 card grid with proper Z-order focus scaling and 120 FPS damping spring physics.</em>
 </p>
+</details>
 
 ---
 
