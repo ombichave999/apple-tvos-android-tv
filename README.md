@@ -1,8 +1,9 @@
 # 🍏 tvOS Detox: Apple TV Experience for Any Android TV Box
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/ombichave999/apple-tvos-android-tv?color=green&logo=github)](https://github.com/ombichave999/apple-tvos-android-tv/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Android%20TV%20%7C%20Google%20TV%20%7C%20Fire%20OS-brightgreen.svg)](#hardware-compatibility)
-[![APK Size](https://img.shields.io/badge/APK%20Size-32%20KB-success.svg)](bin/tvhome.apk)
+[![APK Size](https://img.shields.io/badge/APK%20Size-32%20KB-success.svg)](https://github.com/ombichave999/apple-tvos-android-tv/releases/latest/download/tvhome.apk)
 [![Zero Ads](https://img.shields.io/badge/Ads-0%25%20(Pure%20Detox)-orange.svg)](#features)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blueviolet.svg)](#contributing)
 
@@ -70,7 +71,8 @@ The script automatically:
 ### Option 2: Direct APK Download
 
 If you prefer installing manually via USB drive or file manager:
-- Download the pre-built, signed APK directly: **[bin/tvhome.apk](bin/tvhome.apk)** (`32 KB`).
+- Download the pre-built, signed APK: **[Download tvhome.apk (v1.0.0)](https://github.com/ombichave999/apple-tvos-android-tv/releases/latest/download/tvhome.apk)** (`32 KB`).
+- Or grab it from the **[Releases Page](https://github.com/ombichave999/apple-tvos-android-tv/releases)**.
 - Press Home on your remote and select **Home (tvOS Detox)** as "Always".
 
 ---
